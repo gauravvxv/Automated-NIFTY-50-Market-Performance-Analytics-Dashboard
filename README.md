@@ -4,6 +4,6 @@ Python • yFinance • SQL • Azure • Power BI • Windows Task Scheduler
 
 ## Business Problem
 
-Investors and market analysts need to track and evaluate the performance of NIFTY 50 stocks to understand market trends, returns, and stock-wise movement. However, analyzing 5 years of daily data across 50 companies manually is time-consuming, error-prone, and inefficient, limiting timely insights into top performers, underperformers, and overall market behavior.
+Investors and market analysts need to track and evaluate the performance of NIFTY 50 stocks over time to understand market trends, returns, and stock-wise movement. However, analyzing daily market data for 50 companies from January 2021 to the current date manually is time-consuming, error-prone, and inefficient, making it difficult to identify top performers, underperformers, and overall market behavior in a timely manner.
 
-An automated analytics solution is required to consolidate historical stock data, compute key performance metrics such as monthly returns and volatility, and deliver insights through an interactive dashboard that supports faster, data-driven market analysis.
+There is a need for an automated analytics solution that continuously consolidates historical and latest stock data, calculates key performance metrics such as monthly returns and volatility, and presents insights through an interactive dashboard to support faster, data-driven market analysis.
