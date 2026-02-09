@@ -1,4 +1,4 @@
-# Automated-NIFTY-50-Market-Performance-Analytics-Dashboard (2021 - Present)
+# Automated NIFTY50 Market Performance Analytics Dashboard (2021 - Present)
 ## Tech Stack:
 Python • yFinance • SQL • Azure • Power BI • Windows Task Scheduler
 
