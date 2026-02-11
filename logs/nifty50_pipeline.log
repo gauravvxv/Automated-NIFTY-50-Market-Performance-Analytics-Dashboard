@@ -1,0 +1,262 @@
+2026-02-11 17:40:54,220 - INFO - NIFTY50 pipeline started
+2026-02-11 17:40:54,446 - INFO - Full Historical load
+2026-02-11 17:40:54,446 - INFO - End date is 2026-02-12
+2026-02-11 17:41:07,689 - ERROR - HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-02-11 17:41:07,848 - ERROR - $TATAMOTORS.NS: possibly delisted; no timezone found
+2026-02-11 17:41:07,849 - ERROR - 
+1 Failed download:
+2026-02-11 17:41:07,849 - ERROR - ['TATAMOTORS.NS']: possibly delisted; no timezone found
+2026-02-11 17:41:07,853 - INFO - No data for {symbol}
+2026-02-11 17:41:17,264 - INFO - Nifty50 data update successfully
+2026-02-11 17:41:17,265 - INFO - Nifty50 pipeline completed
+2026-02-11 17:42:01,444 - INFO - NIFTY50 pipeline started
+2026-02-11 17:42:05,026 - INFO - Last date in Excel: 2026-02-11 00:00:00
+2026-02-11 17:42:05,026 - INFO - Start date 2026-02-12
+2026-02-11 17:42:05,026 - INFO - End date is 2026-02-12
+2026-02-11 17:42:06,923 - ERROR - $ADANIENT.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:06,932 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:06,932 - ERROR - ['ADANIENT.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:06,939 - INFO - No data for {symbol}
+2026-02-11 17:42:07,420 - ERROR - $ADANIPORTS.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:07,422 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:07,422 - ERROR - ['ADANIPORTS.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:07,427 - INFO - No data for {symbol}
+2026-02-11 17:42:07,879 - ERROR - $APOLLOHOSP.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:07,888 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:07,888 - ERROR - ['APOLLOHOSP.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:07,892 - INFO - No data for {symbol}
+2026-02-11 17:42:08,519 - ERROR - $ASIANPAINT.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:08,520 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:08,521 - ERROR - ['ASIANPAINT.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:08,526 - INFO - No data for {symbol}
+2026-02-11 17:42:08,994 - ERROR - $AXISBANK.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:08,998 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:08,999 - ERROR - ['AXISBANK.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:09,003 - INFO - No data for {symbol}
+2026-02-11 17:42:09,478 - ERROR - $BAJAJ-AUTO.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:09,485 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:09,485 - ERROR - ['BAJAJ-AUTO.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:09,490 - INFO - No data for {symbol}
+2026-02-11 17:42:10,001 - ERROR - $BAJFINANCE.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:10,003 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:10,003 - ERROR - ['BAJFINANCE.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:10,008 - INFO - No data for {symbol}
+2026-02-11 17:42:10,885 - ERROR - $BAJAJFINSV.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:10,887 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:10,887 - ERROR - ['BAJAJFINSV.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:10,889 - INFO - No data for {symbol}
+2026-02-11 17:42:11,339 - ERROR - $BHARTIARTL.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:11,340 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:11,341 - ERROR - ['BHARTIARTL.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:11,344 - INFO - No data for {symbol}
+2026-02-11 17:42:11,939 - ERROR - $BPCL.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:11,942 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:11,942 - ERROR - ['BPCL.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:11,946 - INFO - No data for {symbol}
+2026-02-11 17:42:12,792 - ERROR - $BRITANNIA.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:12,797 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:12,797 - ERROR - ['BRITANNIA.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:12,800 - INFO - No data for {symbol}
+2026-02-11 17:42:13,258 - ERROR - $CIPLA.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:13,262 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:13,262 - ERROR - ['CIPLA.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:13,266 - INFO - No data for {symbol}
+2026-02-11 17:42:13,823 - ERROR - $COALINDIA.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:13,823 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:13,824 - ERROR - ['COALINDIA.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:13,829 - INFO - No data for {symbol}
+2026-02-11 17:42:14,350 - ERROR - $DIVISLAB.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:14,355 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:14,356 - ERROR - ['DIVISLAB.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:14,360 - INFO - No data for {symbol}
+2026-02-11 17:42:14,951 - ERROR - $DRREDDY.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:14,956 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:14,956 - ERROR - ['DRREDDY.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:14,960 - INFO - No data for {symbol}
+2026-02-11 17:42:15,418 - ERROR - $EICHERMOT.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:15,419 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:15,419 - ERROR - ['EICHERMOT.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:15,424 - INFO - No data for {symbol}
+2026-02-11 17:42:16,067 - ERROR - $GRASIM.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:16,076 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:16,076 - ERROR - ['GRASIM.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:16,081 - INFO - No data for {symbol}
+2026-02-11 17:42:16,764 - ERROR - $HCLTECH.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:16,770 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:16,770 - ERROR - ['HCLTECH.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:16,774 - INFO - No data for {symbol}
+2026-02-11 17:42:17,238 - ERROR - $HDFCBANK.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:17,247 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:17,248 - ERROR - ['HDFCBANK.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:17,252 - INFO - No data for {symbol}
+2026-02-11 17:42:17,732 - ERROR - $HDFCLIFE.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:17,740 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:17,740 - ERROR - ['HDFCLIFE.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:17,745 - INFO - No data for {symbol}
+2026-02-11 17:42:18,499 - ERROR - $HEROMOTOCO.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:18,500 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:18,500 - ERROR - ['HEROMOTOCO.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:18,505 - INFO - No data for {symbol}
+2026-02-11 17:42:18,982 - ERROR - $HINDALCO.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:18,989 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:18,989 - ERROR - ['HINDALCO.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:18,993 - INFO - No data for {symbol}
+2026-02-11 17:42:19,455 - ERROR - $HINDUNILVR.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:19,462 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:19,463 - ERROR - ['HINDUNILVR.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:19,466 - INFO - No data for {symbol}
+2026-02-11 17:42:19,930 - ERROR - $ICICIBANK.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:19,939 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:19,939 - ERROR - ['ICICIBANK.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:19,942 - INFO - No data for {symbol}
+2026-02-11 17:42:20,519 - ERROR - $INDUSINDBK.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:20,528 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:20,528 - ERROR - ['INDUSINDBK.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:20,533 - INFO - No data for {symbol}
+2026-02-11 17:42:21,214 - ERROR - $INFY.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:21,216 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:21,216 - ERROR - ['INFY.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:21,218 - INFO - No data for {symbol}
+2026-02-11 17:42:21,675 - ERROR - $ITC.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:21,681 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:21,681 - ERROR - ['ITC.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:21,686 - INFO - No data for {symbol}
+2026-02-11 17:42:22,193 - ERROR - $JSWSTEEL.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:22,201 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:22,201 - ERROR - ['JSWSTEEL.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:22,205 - INFO - No data for {symbol}
+2026-02-11 17:42:22,654 - ERROR - $KOTAKBANK.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:22,656 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:22,656 - ERROR - ['KOTAKBANK.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:22,661 - INFO - No data for {symbol}
+2026-02-11 17:42:23,141 - ERROR - $LT.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:23,143 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:23,143 - ERROR - ['LT.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:23,148 - INFO - No data for {symbol}
+2026-02-11 17:42:23,882 - ERROR - $LTIM.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:23,886 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:23,886 - ERROR - ['LTIM.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:23,888 - INFO - No data for {symbol}
+2026-02-11 17:42:24,397 - ERROR - $M&M.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:24,404 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:24,404 - ERROR - ['M&M.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:24,409 - INFO - No data for {symbol}
+2026-02-11 17:42:25,148 - ERROR - $MARUTI.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:25,154 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:25,154 - ERROR - ['MARUTI.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:25,157 - INFO - No data for {symbol}
+2026-02-11 17:42:26,105 - ERROR - $NESTLEIND.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:26,109 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:26,109 - ERROR - ['NESTLEIND.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:26,114 - INFO - No data for {symbol}
+2026-02-11 17:42:26,558 - ERROR - $NTPC.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:26,567 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:26,567 - ERROR - ['NTPC.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:26,572 - INFO - No data for {symbol}
+2026-02-11 17:42:27,066 - ERROR - $ONGC.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:27,075 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:27,076 - ERROR - ['ONGC.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:27,080 - INFO - No data for {symbol}
+2026-02-11 17:42:27,549 - ERROR - $POWERGRID.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:27,552 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:27,553 - ERROR - ['POWERGRID.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:27,557 - INFO - No data for {symbol}
+2026-02-11 17:42:28,025 - ERROR - $RELIANCE.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:28,030 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:28,030 - ERROR - ['RELIANCE.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:28,034 - INFO - No data for {symbol}
+2026-02-11 17:42:28,536 - ERROR - $SBILIFE.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:28,538 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:28,538 - ERROR - ['SBILIFE.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:28,543 - INFO - No data for {symbol}
+2026-02-11 17:42:29,219 - ERROR - $SBIN.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:29,222 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:29,222 - ERROR - ['SBIN.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:29,226 - INFO - No data for {symbol}
+2026-02-11 17:42:29,699 - ERROR - $SUNPHARMA.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:29,708 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:29,709 - ERROR - ['SUNPHARMA.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:29,713 - INFO - No data for {symbol}
+2026-02-11 17:42:30,206 - ERROR - $TATACONSUM.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:30,207 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:30,207 - ERROR - ['TATACONSUM.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:30,212 - INFO - No data for {symbol}
+2026-02-11 17:42:31,329 - ERROR - HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-02-11 17:42:31,494 - ERROR - $TATAMOTORS.NS: possibly delisted; no timezone found
+2026-02-11 17:42:31,498 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:31,499 - ERROR - ['TATAMOTORS.NS']: possibly delisted; no timezone found
+2026-02-11 17:42:31,503 - INFO - No data for {symbol}
+2026-02-11 17:42:32,077 - ERROR - $TATASTEEL.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:32,081 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:32,081 - ERROR - ['TATASTEEL.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:32,085 - INFO - No data for {symbol}
+2026-02-11 17:42:32,577 - ERROR - $TCS.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:32,579 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:32,579 - ERROR - ['TCS.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:32,584 - INFO - No data for {symbol}
+2026-02-11 17:42:33,144 - ERROR - $TECHM.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:33,150 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:33,151 - ERROR - ['TECHM.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:33,154 - INFO - No data for {symbol}
+2026-02-11 17:42:33,742 - ERROR - $TITAN.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:33,751 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:33,751 - ERROR - ['TITAN.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:33,756 - INFO - No data for {symbol}
+2026-02-11 17:42:34,223 - ERROR - $ULTRACEMCO.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:34,229 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:34,229 - ERROR - ['ULTRACEMCO.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:34,233 - INFO - No data for {symbol}
+2026-02-11 17:42:34,719 - ERROR - $WIPRO.NS: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:34,725 - ERROR - 
+1 Failed download:
+2026-02-11 17:42:34,725 - ERROR - ['WIPRO.NS']: possibly delisted; no price data found  (1d 2026-02-12 -> 2026-02-12) (Yahoo error = "Data doesn't exist for startDate = 1770834600, endDate = 1770834600")
+2026-02-11 17:42:34,730 - INFO - No data for {symbol}
+2026-02-11 17:42:34,730 - INFO - Nifty50 pipeline completed
